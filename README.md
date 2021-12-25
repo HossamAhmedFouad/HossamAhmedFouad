@@ -1,3 +1,15 @@
-## Hello there,
-My name is Hossam I am from Egypt and I am a computer science student at cairo university, I am a moderate python programmer and a beginner programmer with C++, also have a background about other programming languages such as JavaScript and Java.
+### Hi there 👋, my name is Hossam
+#### Software Engineer And Competitive Programmer
+I am a computer science student at cairo university
+
+Skills: Python / C++ / Java / HTML / CSS
+
+- 🔭 I’m currently working on making my own company 
+- 🌱 I’m currently learning React and Flutter and focusing on C++ 
+- 📫 How to reach me: hossamaf15@yahoo.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hossamahmedfouad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hossamahmedfouad/)  
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HossamAhmedFouad)](https://github.com/anuraghazra/github-readme-stats)

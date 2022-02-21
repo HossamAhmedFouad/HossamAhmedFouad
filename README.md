@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hossam
-#### Software Engineer And Competitive Programmer
+#### Aspiring Software Engineer And Competitive Programmer
 I am a computer science student at cairo university
 
 Skills: Python / C++ / Java / HTML / CSS

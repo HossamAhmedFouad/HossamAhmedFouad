@@ -1,6 +1,6 @@
 # Hi there, I'm Hossam! 👋
 
-Welcome to my GitHub profile! I'm a **Computer Science student** from Egypt with a passion for programming, AI, and problem-solving. Here's a little more about me:
+Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** from Egypt with a passion for programming, AI, and problem-solving. Here's a little more about me:
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student** from Egypt with
 
 - **Programming Languages**: Python, JavaScript/TypeScript, and more.
 - **Frameworks & Tools**: React, Next.js, Node.js, Prisma, FastAPI, and Expo.
-- **Databases**: MongoDB, Firestore.
+- **Databases**: MongoDB, Firestore, Supabase, PostgreSQL
 - **AI/ML**: Scikit-learn, Genetic Algorithms, Logistic and Linear Regression models.
 - **Other**: Firebase (Cloud Messaging, Authentication), Docker.
 
@@ -37,14 +37,6 @@ An engaging website for a fictional resort, showcasing exceptional front-end des
 
 ### 📦 Orders Management API
 A robust backend solution for managing orders in an e-commerce platform. This API demonstrates your ability to handle CRUD operations, database integration, and scalable architecture.
-
----
-
-## 📖 Learning & Growth
-
-- 🌱 **Current Focus**: Improving my MERN stack expertise and working through *Designing Data-Intensive Applications*.
-- 🛠️ **Recent Learnings**: Implemented Genetic Algorithms with **Steady State Genetic Algorithm (SSGA)** concepts and mastered **React Native** for Android apps.
-- 📚 **Ongoing Goals**: Structured daily practice in problem-solving, system design, and advanced frontend/backend concepts.
 
 ---
 
